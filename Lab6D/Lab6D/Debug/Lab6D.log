@@ -1,0 +1,14 @@
+﻿Build started 21.12.2017 14:25:35.
+     1>Project "E:\лабы\Lab6D\Lab6D\Lab6D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lab6D.cpp
+         Lab6D.cpp
+     1>e:\лабы\lab6d\lab6d\lab6d.cpp(53): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>e:\лабы\lab6d\lab6d\lab6d.cpp(45): warning C4101: 'k' : unreferenced local variable
+     1>e:\лабы\lab6d\lab6d\lab6d.cpp(105): warning C4700: uninitialized local variable 'chislo' used
+     1>e:\лабы\lab6d\lab6d\lab6d.cpp(38): error C4716: 'MIN2' : must return a value
+     1>Done Building Project "E:\лабы\Lab6D\Lab6D\Lab6D.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.69

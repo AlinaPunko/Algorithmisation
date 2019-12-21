@@ -1,0 +1,18 @@
+﻿Build started 29.09.2017 17:01:01.
+     1>Project "E:\лабы\Lab52\Lab52\Lab52.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lab52cpp.cpp
+         Lab52cpp.cpp
+     1>e:\лабы\lab52\lab52\lab52cpp.cpp(5): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\лабы\lab52\lab52\lab52cpp.cpp(7): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\лабы\lab52\lab52\lab52cpp.cpp(11): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\лабы\lab52\lab52\lab52cpp.cpp(13): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\лабы\lab52\lab52\lab52cpp.cpp(16): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\лабы\Lab52\Debug\Lab52.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\лабы\Lab52\Debug\Lab52.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\лабы\Lab52\Debug\Lab52.lib" /MACHINE:X86 Debug\Lab52cpp.obj
+         Lab52.vcxproj -> E:\лабы\Lab52\Debug\Lab52.exe
+     1>Done Building Project "E:\лабы\Lab52\Lab52\Lab52.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.85

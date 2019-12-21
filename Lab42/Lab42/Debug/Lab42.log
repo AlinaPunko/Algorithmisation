@@ -1,0 +1,18 @@
+﻿Build started 27.09.2017 16:35:41.
+     1>Project "E:\лабы\Lab42\Lab42\Lab42.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 42.cpp
+         42.cpp
+     1>e:\лабы\lab42\lab42\42.cpp(20): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>e:\лабы\lab42\lab42\42.cpp(26): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>e:\лабы\lab42\lab42\42.cpp(32): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>e:\лабы\lab42\lab42\42.cpp(38): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>e:\лабы\lab42\lab42\42.cpp(44): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\лабы\Lab42\Debug\Lab42.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\лабы\Lab42\Debug\Lab42.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\лабы\Lab42\Debug\Lab42.lib" /MACHINE:X86 Debug\42.obj
+         Lab42.vcxproj -> E:\лабы\Lab42\Debug\Lab42.exe
+     1>Done Building Project "E:\лабы\Lab42\Lab42\Lab42.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.22

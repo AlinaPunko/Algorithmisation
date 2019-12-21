@@ -1,0 +1,13 @@
+﻿Build started 30.10.2017 22:02:17.
+     1>Project "E:\лабы\Lab54\Lab54\Lab54.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt lab54.cpp
+         lab54.cpp
+     1>e:\лабы\lab54\lab54\lab54.cpp(5): error C2059: syntax error : ';'
+     1>e:\лабы\lab54\lab54\lab54.cpp(23): error C2015: too many characters in constant
+     1>e:\лабы\lab54\lab54\lab54.cpp(23): error C2065: 'p' : undeclared identifier
+     1>Done Building Project "E:\лабы\Lab54\Lab54\Lab54.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.59

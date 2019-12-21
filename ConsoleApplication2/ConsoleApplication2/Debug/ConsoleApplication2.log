@@ -1,0 +1,14 @@
+﻿Build started 22.12.2017 13:40:38.
+     1>Project "E:\лабы\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 1234364e.cpp
+         1234364e.cpp
+     1>e:\лабы\consoleapplication2\consoleapplication2\1234364e.cpp(14): error C2440: 'return' : cannot convert from 'char' to 'char *'
+                 Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+     1>e:\лабы\consoleapplication2\consoleapplication2\1234364e.cpp(25): error C2440: '=' : cannot convert from 'char' to 'char *'
+                 Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+     1>Done Building Project "E:\лабы\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.50
